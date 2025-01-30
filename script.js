@@ -1,5 +1,5 @@
-const BOT_API="";
-const CHAT_ID="";
+const BOT_API="7563850194:AAE3-78KD835HoC5CQahD8gEDUHjQeOUOv8";
+const CHAT_ID="5359191250";
 
 
 function Copy(id) 
